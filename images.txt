@@ -1,1 +1,1 @@
-azukaar/cosmos-server
+mongo
