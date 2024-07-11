@@ -1,1 +1,3 @@
-mongo:4.4
+postgres:14-alpine
+redis:5-alpine
+svhd/logto
