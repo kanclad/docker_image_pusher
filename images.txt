@@ -1,1 +1,1 @@
-jasminexzzz/blossom:latest
+amtoaer/bili-sync-rs:v2.1.1
