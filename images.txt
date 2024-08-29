@@ -1,1 +1,1 @@
-ihmily/douyin-live-recorder:latest
+peppershade/open-resume:latest
