@@ -1,1 +1,1 @@
-peppershade/open-resume:latest
+rabbitmq:management
