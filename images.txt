@@ -1,1 +1,2 @@
-threatbook/hfish-server:latest
+mysql:8
+nginx
