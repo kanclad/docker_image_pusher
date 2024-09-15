@@ -1,1 +1,1 @@
-docker.io/library/wordpress:5-fpm
+p3terx/aria2-pro:latest
