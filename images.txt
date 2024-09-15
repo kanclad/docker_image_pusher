@@ -1,1 +1,1 @@
-p3terx/aria2-pro:latest
+aria2-pro
