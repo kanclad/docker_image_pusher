@@ -1,2 +1,2 @@
 registry.rocket.chat/rocketchat/rocket.chat:latest
-docker.io/bitnami/mongodb:5.0
+docker.io/bitnami/mongo:latest
