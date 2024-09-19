@@ -1,4 +1,2 @@
-ghcr.io/immich-app/immich-server:pr-12765
-ghcr.io/immich-app/immich-machine-learning:pr-12747
-docker.io/redis:6.2
-docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0
+registry.rocket.chat/rocketchat/rocket.chat:latest
+docker.io/bitnami/mongodb:5.0
