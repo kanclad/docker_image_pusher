@@ -1,2 +1,1 @@
-registry.rocket.chat/rocketchat/rocket.chat:latest
-docker.io/bitnami/mongo:latest
+mongo:latest
