@@ -1,1 +1,1 @@
-mongo:4.4
+mysql:8.4
