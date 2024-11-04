@@ -1,1 +1,1 @@
-mysql:8.4
+bitaur/puff:v0.2.2
