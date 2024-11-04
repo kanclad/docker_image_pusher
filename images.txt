@@ -1,3 +1,4 @@
-postgres:16-alpine
-ghcr.io/bitmagnet-io/bitmagnet:latest
-journey0ad/bitmagnet-next-web:latest
+redis:5.0.10
+zpqsunny/dht-server:latest
+mongo:4.4.1
+zpqsunny/dht-peer:latest
