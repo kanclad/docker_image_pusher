@@ -1,1 +1,2 @@
-stalwartlabs/mail-server:latest
+mariadb:5.5.60
+metabase/metabase:v0.39.2
