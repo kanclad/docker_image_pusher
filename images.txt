@@ -1,4 +1,1 @@
-redis:5.0.10
-zpqsunny/dht-server:latest
-mongo:4.4.1
-zpqsunny/dht-peer:latest
+stalwartlabs/mail-server:latest
