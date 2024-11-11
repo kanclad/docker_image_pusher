@@ -1,1 +1,5 @@
-php:5.6.40-apache
+ghcr.io/immich-app/immich-server:release
+gotify/server:latest
+redis:latest
+cloudreve/cloudreve:latest
+hwdsl2/ipsec-vpn-server:latest
