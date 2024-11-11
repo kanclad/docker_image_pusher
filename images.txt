@@ -1,5 +1,3 @@
-ghcr.io/immich-app/immich-server:release
-gotify/server:latest
-redis:latest
-cloudreve/cloudreve:latest
-hwdsl2/ipsec-vpn-server:latest
+ghcr.io/immich-app/immich-machine-learning:release
+docker.io/redis:6.2
+docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0
