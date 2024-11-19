@@ -1,1 +1,1 @@
-binwiederhier/ntfy:latest
+shuiche/mind-map:latest
